@@ -47,5 +47,8 @@ Raw OECD pension data exists in Excel and CSV formats, but without a formal busi
 This project demonstrates pension-domain business analysis, data validation, reporting design, and dashboard storytelling.
 
 ## Screenshots
+![Cover](assets/cover.png)
 ![BRD Title](assets/brd-title-page.png)
+!![Data Profiling](assets/data-profile.png)
 ![Dashboard Overview](assets/dashboard-overview.png)
+![Dashboard Key-Insights](assets/key-insights.png)
